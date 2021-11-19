@@ -1,0 +1,8 @@
+.main_content {
+    background-image: url(../images/black\ suit.jpg);
+    height: fit-content;
+    }
+    
+    .main_content {background-blend-mode: overlay;}
+
+
